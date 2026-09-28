@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeywsd
-- 👀 I’m a Data Science Major at Berkeley with a domain emphasis in linguistics.
+- 👀 I’m a May 2026 new grad from UC Berkeley with a Bachelor's in Data Science (domain emphasis in linguistics).
 - 🌱 Currently looking into internships & jobs.
 
 <!---
